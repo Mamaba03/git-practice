@@ -1,6 +1,4 @@
-I am sadiq Abdulbaasid Abdussamad
-A GYM LOVER
-And tech-lover
-a computer science undergraduate
-student of udusok
-Adding another line
+Hi, I'm Sadiq Abdulbasid Abdussamad
+I'm learning to code and trying to build 
+useful things.Still early in the journey,
+just documenting what ilearn and make as i go.
