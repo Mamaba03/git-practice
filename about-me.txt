@@ -3,3 +3,5 @@ I'm learning to code and trying to build
 useful things.Still early in the journey,
 just documenting what ilearn and make as i go.
 This is part of git learning journey.
+
+Adding some changes in about-me.txt
